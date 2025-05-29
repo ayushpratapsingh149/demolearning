@@ -1,0 +1,24 @@
+{
+  "name": "demolearning",
+  "version": "1.0.0",
+  "description": "learning website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushpratapsingh149/demolearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushpratapsingh149/demolearning/issues"
+  },
+  "homepage": "https://github.com/ayushpratapsingh149/demolearning#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
