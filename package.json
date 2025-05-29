@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/ayushpratapsingh149/demolearning#readme",
   "dependencies": {
+    "body": "^5.1.0",
     "ejs": "^3.1.10",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "parser": "^0.1.4"
   }
 }
